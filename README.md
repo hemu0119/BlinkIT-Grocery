@@ -9,11 +9,9 @@ This project focuses on analyzing BlinkIT's grocery sales data using Microsoft E
 
 The interactive dashboard enables stakeholders to explore key business metrics through dynamic filters and visualizations, helping drive data-driven decisions in inventory planning, outlet management, and sales optimization.
 
-🌐 Live Dashboard
+## 🌐 Live Dashboard
 
-🚀 View Interactive Dashboard
-
-Live Dashboard (OneDrive)
+👉 [View Interactive Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQCVUuP2w-i1TpAyQNTidA-4AcKCn-AEsdzKoXARRPkdGck?e=iDdMcu)
 
 🎯 Business Problem
 
