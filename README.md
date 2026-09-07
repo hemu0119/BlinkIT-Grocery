@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 
-Developed an interactive Excel dashboard to analyze BlinkIT grocery sales performance, customer preferences, outlet efficiency, and product category trends.
+Developed an interactive Excel dashboard to analyze BlinkIT grocery sales performance, outlet efficiency, customer preferences, and product category trends.
+
+The dashboard enables stakeholders to track key KPIs and make data-driven business decisions through interactive filters and visualizations.
 
 The dashboard enables stakeholders to monitor key business KPIs and make data-driven decisions using dynamic filters and visual insights.
 
@@ -59,7 +61,7 @@ The dashboard enables stakeholders to monitor key business KPIs and make data-dr
 ## 📸 Dashboard Preview
 
 
-[Dashboard]<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/d6ffd4d5-ad8c-4687-a965-c91c5effe454" />
+![Dashboard]<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/d6ffd4d5-ad8c-4687-a965-c91c5effe454" />
 
 
 ---
