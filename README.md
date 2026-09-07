@@ -12,6 +12,7 @@ The dashboard enables stakeholders to monitor key business KPIs and make data-dr
 
 ---
 
+
 ## 📊 Key Metrics
 
 - 💰 Total Sales: $1.20M
@@ -57,7 +58,8 @@ The dashboard enables stakeholders to monitor key business KPIs and make data-dr
 
 ## 📸 Dashboard Preview
 
-![Dashboard]("C:\Users\A\OneDrive\Desktop\Restart\Excel-P\Blinkit\Images\Image-1.jpeg")
+
+
 
 ---
 
