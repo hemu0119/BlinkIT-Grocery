@@ -60,7 +60,7 @@ The dashboard enables stakeholders to monitor key business KPIs and make data-dr
 
 ## 📸 Dashboard Preview
 
-![Dashboard](<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/2ebb9870-4a24-4778-9c56-d2e8574eb89c" />
+(<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/2ebb9870-4a24-4778-9c56-d2e8574eb89c" />
 )
 
 
