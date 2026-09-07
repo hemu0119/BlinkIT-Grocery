@@ -85,6 +85,6 @@ The dashboard enables stakeholders to monitor key business KPIs and make data-dr
 
 **Hemanth Mupparaju**
 
-Data Analyst | Excel & Power BI Developer
+Data Analyst |  Power BI Developer
 
 GitHub: https://github.com/hemu0119
