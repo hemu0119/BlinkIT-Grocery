@@ -8,6 +8,8 @@ The dashboard enables stakeholders to track key KPIs and make data-driven busine
 
 The dashboard enables stakeholders to monitor key business KPIs and make data-driven decisions using dynamic filters and visual insights.
 
+---
+
 ## 🌐 Live Dashboard
 
 👉 [View Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQCVUuP2w-i1TpAyQNTidA-4AcKCn-AEsdzKoXARRPkdGck?e=3Lq1SJ)
