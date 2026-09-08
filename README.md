@@ -63,6 +63,14 @@ The project uses data cleaning, exploratory data analysis, KPI development, visu
 
 ---
 
+
+
+## 📸 Dashboard Preview
+
+<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/2ebb9870-4a24-4778-9c56-d2e8574eb89c" />
+
+---
+
 ## 📁 Project Files
 
 - `blinkit.ipynb` — Python data cleaning, EDA, visualizations, and analysis
@@ -71,9 +79,31 @@ The project uses data cleaning, exploratory data analysis, KPI development, visu
 
 ---
 
-## 📸 Dashboard Preview
+# 🚀 How to Run the Project
 
-<img width="1182" height="634" alt="Image-1" src="https://github.com/user-attachments/assets/2ebb9870-4a24-4778-9c56-d2e8574eb89c" />
+1. Clone the repository.
+
+```bash
+git clone https://github.com/hemu0119/Swiggy-Food-Delivery-Analytics.git
+```
+
+2. Install required libraries.
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+3. Open the Jupyter Notebook.
+
+```bash
+jupyter notebook
+```
+
+4. Run all cells to reproduce the analysis and visualizations.
+
+---
+
+
 
 ---
 
