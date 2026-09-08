@@ -10,7 +10,7 @@ The project uses data cleaning, exploratory data analysis, KPI development, visu
 
 ## 🌐 Live Dashboard
 
-👉 [View Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQCVUuP2w-i1TpAyQNTidA-4AcKCn-AEsdzKoXARRPkdGck?e=3Lq1SJ)
+👉 [View Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQB6QQibVV-vQ4WoGijHO1zfASIbQ3JBsSamHxJvjV7etQ4?e=cwIfD3)
 
 ---
 
