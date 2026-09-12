@@ -4,7 +4,7 @@
 
 Developed an end-to-end BlinkIT grocery sales analysis project combining **Python data analysis** with an **interactive Excel dashboard** to analyze sales performance, outlet efficiency, customer preferences, and product category trends.
 
-The project uses data cleaning, exploratory data analysis, KPI development, visualizations, and interactive dashboarding to turn raw grocery sales data into actionable business insights.
+The project uses data cleaning, exploratory data analysis, KPI development, visualizations, and interactive dashboarding to turn raw grocery sales data into actionable business insights. 
 
 ---
 
@@ -16,10 +16,10 @@ The project uses data cleaning, exploratory data analysis, KPI development, visu
 
 ## 📊 Key Metrics
 
-- 💰 Total Sales: $1.20M
-- 📦 Total Records / Items: 8,523
-- 📈 Average Sales: $141
-- ⭐ Average Rating: 4.0
+- 💰 Total Sales : $1.20M
+- 📦 Total Records / Items : 8,523
+- 📈 Average Sales : $141
+- ⭐ Average Rating : 4.0
 
 ---
 
